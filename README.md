@@ -1,0 +1,2 @@
+# finTrack
+expense tracker app
